@@ -1,4 +1,7 @@
-ollama
+aiohttp
+asyncio
+Ollama
 SpeechRecognition
-pyaudio
 pyttsx3
+tk
+Pillow
